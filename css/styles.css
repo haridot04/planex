@@ -3464,7 +3464,7 @@ img.u-pull-left {
 
 @media screen and (max-width: 500px) {
   .s-intro {
-    --text-huge-multiplier: 0.425;
+    --text-huge-multiplier: 0.35;
     padding-top: calc(var(--header-height) + var(--vspace-2_5));
   }
 
